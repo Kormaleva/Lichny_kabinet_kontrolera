@@ -1,10 +1,10 @@
-.. bytkbn documentation master file, created by
+.. Lichny_kabinet_kontrolera documentation master file, created by
    sphinx-quickstart on Mon May 15 17:54:46 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to bytkbn's documentation!
-==================================
+Welcome to Lichny_kabinet_kontrolera's documentation!
+=====================================================
 
 .. toctree::
    :maxdepth: 2
