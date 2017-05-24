@@ -129,8 +129,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Lichny_kabinet_kontrollera.tex', 'Lichny\\_kabinet\\_kontrollera Documentation',
-     'Elena Kormaleva', 'manual'),
+#    (master_doc, 'Lichny_kabinet_kontrollera.tex', 'Lichny\\_kabinet\\_kontrollera Documentation',
+#     'Elena Kormaleva', 'manual'),
 ]
 
 
