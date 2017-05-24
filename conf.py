@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
 # Lichny_kabinet_kontrollera documentation build configuration file, created by
