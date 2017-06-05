@@ -42,5 +42,5 @@
  
 При входе на карточку лицевого счета видим отразившиеся изменения.
 
-.. image:: ./Pictures/Lichny_kabinet_kontrolera_akty_zameny_PU/отображение_с_карты лс.png
+.. image:: ./Pictures/Lichny_kabinet_kontrolera_akty_zameny_PU/отображение_с_карты_лс.png
  
